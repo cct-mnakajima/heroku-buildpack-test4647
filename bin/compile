@@ -1,2 +1,10 @@
 #!/usr/bin/env bash
-echo "-----> Nothing to compile"
+echo "-----> Test to compile"
+
+echo $USER
+
+mkdir testtest
+chmod -R 777 testtest
+
+
+echo "-----> Test to end"
