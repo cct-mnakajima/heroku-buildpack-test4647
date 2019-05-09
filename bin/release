@@ -1,0 +1,6 @@
+#!/usr/bin/env bash
+echo "--- {}"
+
+mkdir testets
+chmod -R 777  testets
+
