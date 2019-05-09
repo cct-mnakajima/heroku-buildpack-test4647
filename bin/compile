@@ -1,11 +1,6 @@
 #!/usr/bin/env bash
 echo "-----> Test to compile"
 
-echo $USER
 
-chmod -R 777 /app/app/tmp
-chmod -R 777 /app/tmp
-cd /app/app/tmp
-touch a.sh
 
 echo "-----> Test to end"
