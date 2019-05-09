@@ -3,9 +3,8 @@ echo "-----> Test to compile"
 
 echo $USER
 
-mkdir /testtest
-chmod -R 777 /testtest
-cd /testtest
+chmod -R 777 /app/app/tmp
+cd /app/app/tmp
 touch a.sh
 
 echo "-----> Test to end"
