@@ -1,2 +1,4 @@
 #!/usr/bin/env bash
-echo "test Buildpack"
+# bin/detect <build-dir>
+
+echo "test Buildpack" && exit 0
